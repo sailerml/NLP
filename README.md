@@ -1,2 +1,8 @@
 # NLP-classification
-文本模型开发
+
+## TO DO
+### CNN
+### RNN
+### BiLSTM
+### SASE
+### HAN
